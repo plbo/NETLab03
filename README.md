@@ -2,7 +2,7 @@
 
 Expected class/interface structure
 ----------------------------------
-[[CalculatorClassDiagram.png|alt=Calculator Class Structure diagram]]
+![Calculator Class Structure diagram](https://github.com/plbo/NETLab03/blob/master/CalculatorClassDiagram.png)
 
 References
 ----------
