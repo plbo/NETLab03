@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="MyCalculator.BinaryCalculator">
+    <Position X="8.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>BinaryCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyCalculator.FunctionCalculator">
+    <Position X="3" Y="4.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgACAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FunctionCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyCalculator.LogFunctionCalculator">
+    <Position X="0.75" Y="7.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogFunctionCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCalculator.MultiplyCalculator">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultiplyCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCalculator.PlusCalculator">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlusCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCalculator.SingleValueCalcualtor" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>SingleValueCalcualtor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyCalculator.SinusFunctionCalculator">
+    <Position X="5" Y="7.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SinusFunctionCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MyCalculator.IBinaryCalculator">
+    <Position X="4" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>IBinaryCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyCalculator.ICalculator">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyCalculator.IUnaryCalculator">
+    <Position X="0.5" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IUnaryCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
